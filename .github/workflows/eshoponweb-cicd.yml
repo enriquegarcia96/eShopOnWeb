@@ -9,7 +9,7 @@ env:
   LOCATION: westus3
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: b1559bf7-8bc2-4d3a-8ce6-3748b6cedb38
-  WEBAPP-NAME: paginakikesar-siu
+  WEBAPP-NAME: paginakikesar
 
 jobs:
   #Build, test and publish .net web project in repository
